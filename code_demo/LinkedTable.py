@@ -188,8 +188,71 @@ def front_times(str, n):
 
 #print(front_times("abcdefg",2))
 def string_bits(str):
-  
-  
+    result = ""
+  # Many ways to do this. This uses the standard loop of i on every char,
+  # and inside the loop skips the odd index values.
+    for i in range(len(str)):
+        if i % 2 == 0:
+            result = result + str[i]
+    return result
+
+#print(string_bits("abcdefghij"))  
+def string_splosion(str):
+    newstr = ""
+    for i in range(len(str)):
+        newstr+=str[0:i+1]
+    return newstr
+#print(string_splosion("Code"))
+
+
+def last2(str):
+    count = 0
+    if len(str)<2:
+        return count
+    last2 = str[len(str)-2:]    
+    for i in range(len(str)-2):
+        sub = str[i:i+2]
+        if sub == last2:
+            count+=1    
+    return count
+
+#print(last2("axxxaaxx"))
+def array_count9(nums):
+    count = 0
+    for i in nums:
+        if i==9: count+=1
+    return count
+
+#print(array_count9([1,9,9,9,9, 2, 9]))
+def array_front9(nums):  
+    result = False
+    for i in nums:
+        if i==9 and nums.index(i)<4:
+            result = True
+            break
+    return result
+
+def array123(nums):
+    istrue = False
+    for i in range(len(nums)-2):
+        if nums[i]==1 and nums[i+1]==2 and nums[i+2]==3:
+            istrue = True
+            break
+    return istrue
+
+print(array123([1,4]))
+
+    
+
+#print(array_count9([1, 2, 3, 4, 9]))
+#array_front9([1, 2, 3, 4, 9])
+
+
+#newstr=""
+#newstra="a"+"a"
+#newstr=aa+b+ab
+    
+
 #here is new code
 
 #print(array)
