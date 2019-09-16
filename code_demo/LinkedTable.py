@@ -190,6 +190,6 @@ def front_times(str, n):
 def string_bits(str):
   
   
-
+#here is new code
 
 #print(array)
