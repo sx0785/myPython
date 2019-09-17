@@ -1,4 +1,12 @@
 '''
+Built-in Data Types
+In programming, data type is an important concept.
+
+Variables can store data of different types, and different types can do different things.
+
+
+
+'''
 class Box:
     def __init__(self, data):
         self.data = data
@@ -240,7 +248,50 @@ def array123(nums):
             break
     return istrue
 
-print(array123([1,4]))
+#print(array123([1,4]))
+
+def string_match(a, b):
+
+     # Figure which string is shorter.
+  shorter = min(len(a), len(b))
+  count = 0
+  
+  # Loop i over every substring starting spot.
+  # Use length-1 here, so can use char str[i+1] in the loop
+  for i in range(shorter-1):
+    a_sub = a[i:i+2]
+    b_sub = b[i:i+2]
+    if a_sub == b_sub:
+      count = count + 1
+
+  return count
+
+  '''
+    count = 0
+    for i in range(len(a)-1):
+        for j in range(len(b)-1):
+            if a[i]==b[j] and a[i+1]==b[j+1]:
+                count+=1
+                break
+    return count
+'''
+print(string_match('aabbccdd', 'abbbxxd'))
+    
+  
+def string_match(a, b):
+  # Figure which string is shorter.
+  shorter = min(len(a), len(b))
+  count = 0
+  
+  # Loop i over every substring starting spot.
+  # Use length-1 here, so can use char str[i+1] in the loop
+  for i in range(shorter-1):
+    a_sub = a[i:i+2]
+    b_sub = b[i:i+2]
+    if a_sub == b_sub:
+      count = count + 1
+
+  return count
 
     
 
