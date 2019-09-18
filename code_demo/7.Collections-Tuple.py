@@ -30,3 +30,17 @@ x = tuple(y)
 
 print(x)
 
+#Tuple
+temps = (("Berlin",29),("Cairo",36),("Buenos Aires",19),("Los Angeles",26),("Tokyo",27),("New York",28))
+print(type(temps))
+print(temps[0])
+
+for i in temps:
+    print(i[1])
+
+import timeit
+list_test = timeit.timeit(stmt="[1,2,3,4,5]",number = 1000000)
+tuple_test = timeit.timeit(stmt="[1,2,3,4,5]",number = 1000000)
+
+print("list time:",list_test)
+print("tuple time:",tuple_test)

@@ -45,3 +45,8 @@ list2 = [1, 2, 3]
 list3 = list1 + list2
 print(list3)
 
+
+temps = [("Berlin",29),("Cairo",36),("Buenos Aires",19),("Los Angeles",26),("Tokyo",27),("New York",28)]
+
+
+print(dir(temps))
