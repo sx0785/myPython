@@ -1,0 +1,248 @@
+BANK_ID,name,DISPLAY_NAME,SHORT_NAME
+-1,Payables,Payables,Payables
+10,ANZ Bank New Zealand,ANZ Bank New Zealand,ANZ NZ
+11,Bank of New Zealand,Bank of New Zealand,BNZ
+12,Diners Club International,Diners Club International,Diners Club
+20,St.George Bank,St.George Bank,St.George
+25,Wells Fargo Bank, N.A.,Wells Fargo,Wells Fargo
+30,NAB Mastercard,NAB Mastercard,NAB MC
+40,ANZ NZ,ANZ NZ,ANZ NZ
+41,ANZ NZ Purchasing,ANZ NZ Purchasing,ANZ NZ PUR
+42,ANZ NZ Corporate,ANZ NZ Corporate,ANZ NZ Corp
+90,ASB VISA,ASB VISA,ASB VISA
+99,United Vision Travel,United Vision Travel,VisionTravel
+100,United Vision Bank,United Vision Bank,Vision Bank
+101,ASB BANK,ASB BANK,ASB BANK
+102,Commonwealth Bank of Australia,Commonwealth Bank of Australia,CBA
+103,ANZ,ANZ,ANZ
+104,Westpac NZ,Westpac NZ,Westpac NZ
+105,Visa International,Visa International,VISA
+106,National Australia Bank,National Australia Bank,NAB
+107,American Express,American Express,AMEX
+108,Barclaycard Business,Barclaycard Business,Barclaycard
+109,Barclays Bank PLC,Barclays Bank PLC,Barclays 
+110,Westpac Banking Corporation,Westpac,Westpac
+111,American Express NZ,American Express NZ,AMEX NZ
+112,American Express AUS,American Express AUS,AMEX AUS
+113,Diners Club New Zealand,Diners Club New Zealand,Diners NZ
+114,Citibank Europe,Citibank Europe,Citibank
+115,Citibank Singapore,Citibank Singapore,Citibank SG
+116,JPMorganChase,JPMorganChase,JPMC
+117,Citibank Scotland,Citibank Scotland,Citibank SC
+118,Citibank France,Citibank France,Citibank FR
+119,Citibank MasterCard,Citibank MasterCard,Citibank MC
+120,ANZ MasterCard,ANZ MasterCard,MasterCard
+121,HSBC Singapore,HSBC Singapore,HSBC SG
+122,Royal Bank of Scotland,Royal Bank of Scotland,RBS
+123,Westpac Australia Visa,Westpac AU Visa,Westpac Visa
+124,Citibank Hong Kong,Citibank Hong Kong,Citibank HK
+125,SEB Eurocard,SEB Eurocard,SEB Eurocard
+126,NAB - Corporate,NAB - Corporate,NAB Corp
+127,BNZ - Purchasing,BNZ - Purchasing,BNZ Purchase
+128,Citibank EU,Citibank EMEA,Citibank EU
+130,ANZ - Purchasing,ANZ - Purchasing,ANZ Purchase
+131,ANZ - Corporate,ANZ - Corporate,ANZ Corp
+132,ANZ - Cash,ANZ - Cash,ANZ - Cash
+133,ANZ - Travel,ANZ - Travel,ANZ - Travel
+134,ANZ - One Card,ANZ - One Card,ANZ-OneCard
+135,American Express - Purchasing,Amex Purchasing,Amex P
+136,American Express US,American Express US,AMEX US
+137,American Express US - Purchasing,Amex US Purchasing,Amex US P
+138,AMEX Global T & E,AMEX Global T & E,AMEX GL T&E
+139,AMEX Global PCard,AMEX Global PCard,AMEX GL
+140,United Overseas Bank (Malaysia),United Overseas Bank (Malaysia),UOB (MY)
+141,AMEX Argentina,AMEX Argentina,AMEX AR
+142,Barclaycard Blue,Barclaycard Blue,BC Blue
+143,Barclaycard Silver,Barclaycard Silver,BC Silver
+144,Barclaycard Visa,Barclaycard Visa,BC Visa
+147,Barclaycard Mastercard,Barclaycard Mastercard,BC MCard
+148,Westpac Mastercard,Westpac MasterCard,Westpac MC
+150,Citibank Australia,Citibank Australia,Citibank AU
+151,Westpac AU Corporate,Westpac Corporate,Westpac Corp
+152,Westpac AU Purchasing,Westpac Purchasing,Westpac PC
+153,JPMorgan Chase Canada,JPMorgan Chase Canada,JPMC Canada
+154,JPMorgan Chase USA,JPMorgan Chase USA,JPMC USA
+155,Citibank Japan,Citibank Japan,Citibank JP
+156,Citibank BANAMEX Mexico,Citibank Mexico,Citibank MX
+157,Citibank India,Citibank India,Citibank IN
+158,Bank of Melbourne,Bank of Melbourne,BOM AU
+159,Citibank South Africa,Citibank South Africa,Citi SA
+160,SunTrust - Visa,SunTrust - Visa,STI - Visa
+161,SunTrust - MasterCard,SunTrust - MasterCard,STI - MC
+162,SunTrust EBPP,SunTrust EBPP,SunTrust
+165,Bank of America,Bank of America,BOA
+166,Bank of America (US),Bank of America (US),BOA (US)
+167,Bank of America (Canada),Bank of America (Canada),BOA (Canada)
+168,Bank of America (Visa),Bank of America (Visa),BoA (Visa)
+169,Bank of America (Europe),Bank of America (Europe),BoA Europe
+170,Bidvest Bank,Bidvest Bank,Bidvest Bank
+171,UBS,UBS,UBS
+172,Bankinter,Bankinter,Bankinter
+173,Scotia Bank,Scotia Bank,Scotia Bank
+174,United Overseas Bank (Thailand),United Overseas Bank (Thailand),UOB (TH)
+175,United Overseas Bank (Indonesia),United Overseas Bank (Indonesia),UOB (Indo)
+176,AMEX Serbia,AMEX Serbia,AMEX Serbia
+177,UBS AG,UBS AG Bank,UBS AG
+178,Citibank Australia CTA,Citibank Australia CTA,Citi AU CTA
+179,Citibank New Zealand CTA,Citibank New Zealand CTA,Citi NZ CTA
+180,ANZ,ANZ,ANZ
+181,HSBC UK,HSBC UK,HSBC UK
+182,HSBC Australia,HSBC Australia,HSBC AU
+183,HSBC,HSBC,HSBC
+184,HSBC Canada,HSBC Canada,HSBC CA
+185,HSBC Ireland,HSBC Ireland,HSBC Ireland
+186,HSBC US,HSBC US,HSBC US
+187,HSBC Sri Lanka,HSBC Sri Lanka,HSBC SL
+190,Citibank Diners,Citibank Diners,Citi Diners
+191,Citibank China,Citibank China,Citi China
+192,Airplus Germany,Airplus Germany,Airplus DEU
+193,HSBC Middle East,HSBC Middle East,HSBC ME
+194,Citibank Canada,Citibank Canada,Citi Canada
+195,Bank of Western Australia,Bank of Western Australia,Bankwest
+196,Lloyds Bank,Lloyds Bank,Lloyds
+197,Lloyds Bank (Lodge),Lloyds Bank (Lodge),Lloyds Lodge
+198,Amex GL France,Amex GL France,Amex GL FR
+199,Amex Hong Kong,Amex HK,Amex HK
+200,Mitsui Sumitomo Visa,MS Visa,MS Visa
+201,Diners Club Japan,Diners Club Japan,Diners
+202,Japan Credit Bureau,Japan Credit Bureau,JCB
+203,Diamond Credit Card,Diamond Credit Card,DC Card
+204,Toyota Finance,Toyota Finance,TFS
+205,Credit Saison,Credit Saison,Cr Saison
+206,Branch Banking & Trust Corporation,BB&T Corp,BB&T Corp
+207,Branch Banking & Trust Lodge,BB&T Lodge,BB&T Lodge
+208,Citibank Taiwan,Citibank Taiwan,Citi TW
+209,Citibank Shanghai,Citibank Shanghai,Citi SH
+210,Citibank Malaysia,Citibank Malaysia,Citi Malay
+211,Citibank Indonesia,Citibank Indonesia,Citi ID
+212,Citibank Philippines,Citibank Philippines,Citi PH
+213,NAB - Cash Card,NAB - Cash Card,NAB CashCard
+214,Bank of America (Corporate),Bank of America (Corporate),BoA (Corp)
+215,Citibank US,Citibank US,Citibank US
+216,Citibank Asia,Citibank Asia,Citi Asia
+217,Citibank,Citibank,Citibank
+218,Citibank Venezuela,Citibank Venezuela,Citi VEN
+219,Citibank US,Citibank US,Citi US
+220,Bank of Montreal,Bank of Montreal,BOM
+221,Diners AU Dual Card (Diners),Diners AU Dual Card (Diners),DDCD
+222,Diners AU Dual Card (MasterCard),Diners AU Dual Card (MasterCard),DDCM
+225,Bank Card Corporate,Bank Card Corporate,BCC
+230,Bank of Scotland,Bank of Scotland,BoS
+231,CBA - MC Travel & Entertainment,CBA - MC Travel & Entertainment,CWB - MC Cor
+232,CBA - MC Purchasing,CBA - MC Purchasing,CWB - MC Pur
+233,Commonwealth Bank - CBA Corporate,CBA - Corporate,CBA - Corp
+239,Eurocard,Eurocard,Eurocard
+240,Citibank France,Citibank France,Citi France
+241,Citibank Germany,Citibank Germany,Citi Germany
+242,Citibank Netherlands,Citibank Netherlands,Citi Dutch
+243,ANZ - Procurement,ANZ - Procurement,ANZ - Pro
+244,Citibank Thailand,Citibank Thailand,Citi Thai
+245,Citibank Japan,Citibank Japan,Citi JP
+246,AMEX UK Purchasing,AMEX UK Purchasing,AMEX UK
+247,Citibank Israel,Citibank Israel,Citi Israel
+248,Royal Bank of Scotland,RBS MasterCard,RBS MC
+250,China Merchants Bank,China Merchants Bank,CMB
+251,Visa Westpac Bank,Visa Westpac Bank,Visa Westpac
+252,Visa Westpac AU,Visa Westpac AU,Visa Wpac AU
+253,Visa Westpac Corporate,Visa Westpac Corporate,Visa Wpac Co
+254,Visa Westpac Purchasing,Visa Westpac Purchasing,Visa Wpac P
+255,ING MasterCard,ING MasterCard,ING MC
+256,China Merchant Bank T&E,China Merchant Bank T&E,China MB T&E
+257,China Merchant Bank Purchasing,China Merchant Bank Purchasing,China MB P
+260,Amex Singapore,Amex Singapore,Amex SGP
+261,Amex Singapore Purchasing,Amex Singapore Purchasing,AMEX SIN P
+270,ABSA VISA,ABSA VISA,ABSA VISA
+271,Lloyds,Lloyds,Lloyds
+272,National Australia Bank NTA,National Australia Bank NTA,NAB NTA
+273,ANZ New Zealand Travel Card,ANZ NZ Lodge,ANZ NZ Lodge
+278,Lloyds Visa,Lloyds Visa,Lloyds Visa
+279,Citibank New Zealand,Citibank New Zealand,Citi NZ
+280,Bank of America - Australia (MC),Bank of America - Australia (MC),BoA AU(MC)
+281,Nedbank VISA,Nedbank VISA,Nedbank
+282,Citibank - Purchasing cards,Citibank - Purchasing cards,Citibank Pc
+283,BOQ Specialist Bank Ltd,BOQ Specialist Bank,BOQS
+284,Bank of America VCP,Bank of America VCP,BoA VCP
+285,HSBC Hong Kong,HSBC Hong Kong,HSBC HK
+286,National Westminster Bank Plc,Natwest Bank,Natwest
+287,Citibank Korea,Citibank Korea,Citibank Kr
+288,ICICI,ICICI,ICICI
+289,Nedbank,Nedbank,Nedbank
+290,RBS - Bank Settle,RBS - Bank Settle,RBS - Settle
+291,RBS - VPC,RBS - VPC,RBS - VPC
+292,Lloyds MasterCard,Lloyds MasterCard,Lloyds MC
+295,U.S. Bank,U.S. Bank,U.S. Bank
+300,Bank One,Bank One,Bank One
+301,TDB Mongolia T&E,TDB Mongolia T&E,TDB MN T&E
+302,TDB Mongolia Purchasing,TDB Mongolia Purchasing,TDB MN P
+310,Bank of Montreal,Bank of Montreal,BMO
+311,Bank of Montreal,Bank of Montreal,BMO
+312,Bank of Montreal - MasterCard,BMO,BMO
+313,Bank of Montreal - Diners,Diners Club,Diners Club
+334,BoA Australia P-Card,BoA Australia P-Card,BoA AU P
+335,BoA Diavik Diamonds Purchasing,BoA Diavik Diamonds Purchasing,BoA-DDMI-P
+336,BoA Diavik Diamonds T&E,BoA Diavik Diamonds T&E,BoA DDMI T&E
+337,BoA USD Global T&E,BoA USD Global T&E,BoA USD G TE
+338,BoA USD Global Purchasing,BoA USD Global Purchasing,BoA USD G P
+339,BoA Singapore T&E,BoA Singapore T&E,BoA SG T&E
+340,BoA Singapore Purchasing,BoA Singapore Purchasing,BOA Sin (P)
+341,BoA New Zealand,BoA New Zealand,BOA NZ
+342,BoA Australia East T&E,BoA Australia East T&E,BoA AU EA TE
+343,BoA Australia East Purchasing,BoA Australia East Purchasing,BoA AU EA P
+344,BoA Australia West T&E,BoA Australia West T&E,BoA AU WE TE
+345,BoA Australia West Purchasing,BoA Australia West Purchasing,BoA AU WE P
+346,BoA Canada T&E,BoA Canada T&E,BoA CA T&E
+347,BoA Canada Purchasing,BoA Canada Purchasing,BoA CA P
+348,BoA USA T&E,BoA USA T&E,BoA USA T&E
+349,BoA USA Purchasing,BoA USA Purchasing,BoA USA P
+350,HRG Bill Back,HRG Bill Back,HRG BB
+351,China Construction Bank (Asia) VISA,CCB (Asia) VISA,CCBA VISA
+352,China Construction Bank (Asia) MasterCard,CCB (Asia) MasterCard,CCBA MC
+353,China Construction Bank (Asia) UnionPay,CCB (Asia) UnionPay,CCBA UP
+354,Westpac Visa CTA,Westpac Visa CTA,Westpac CTA
+355,Natwest Bank,Natwest Bank - Mastercard,Natwest MC
+356,United Overseas Bank Limited,United Overseas Bank Limited,UOB SG
+357,Chinatrust Commercial Bank,Chinatrust Commercial Bank,CTBC Bank
+358,DBS Bank Ltd,DBS Bank Ltd,DBS Bank Ltd
+359,AMEX Philippines,AMEX Philippines,AMEX PH
+360,AMEX Banco De Oro,AMEX Banco De Oro,AMEX BDO
+361,AMEX India,AMEX India,AMEX Id
+362,AMEX France,AMEX France,AMEX FR
+363,AMEX Iceland,AMEX Iceland,AMEX ICE
+364,AMEX Thailand,AMEX Thailand,AMEX Th
+365,Amex Business Traveller,Amex Business Traveller,AmexBusTrav
+370,BoA UK T&E,BoA UK T&E,BoA UK T&E
+371,BoA France T&E,BoA France T&E,BoA FR T&E
+372,BoA France Purchasing,BoA France Purchasing,BoA FR P
+373,Standard Bank South Africa T&E,Standard Bank South Africa T&E,Std B ZA T&E
+374,Standard Bank South Africa Purchasing,Standard Bank South Africa Purchasing,Std B ZA P
+375,BoA India T&E,BoA India T&E,BoA IND T&E
+376,BoA India Purchasing,BoA India Purchasing,BoA IND P
+377,BoA Hong Kong,BoA Hong Kong,BOA HK
+378,BoA UK Purchasing,BoA UK Purchasing,BoA-UK-P
+390,Bendigo and Adelaide Bank Limited,Bendigo Bank,BEN
+391,DBS Bank Lodge,DBS Bank Lodge,DBS Lodge
+400,Shell Australia,Shell Australia,Shell
+403,AMEX BTA Australia,AMEX BTA AU,AMEX BTA AU
+404,AMEX BTA New Zealand,AMEX BTA NZ,AMEX BTA NZ
+405,AMEX BTA Lodge,AMEX BTA Lodge,AMEX Lodge
+410,FCM Travel,FCM Travel,FCM Travel
+411,Air NZ TravelCard,Air NZ TravelCard,Air NZ
+412,Airplus,Airplus,Airplus
+420,Corporate Cabs,Corporate Cabs,Corp Cabs
+421,Mitsubishi Bank,Mitsubishi Bank,Mitsubishi
+430,TaxiCharge NZ,TaxiCharge NZ,TaxiCharge
+431,Alert Taxis,Alert Taxis,Alert Taxis
+440,Mobil New Zealand,Mobil New Zealand,Mobil NZ
+441,Bank of the West,Bank West,Bank West
+450,National Travel Account,National Travel Account,NAB Travel
+451,NAB - Automated Invoice Payments,NAB - Automated Invoice Payments,NAB - AIP
+460,Barclaycard Lodge,Barclaycard Lodge,BC Lodge
+461,JPMorgan Chase UK,JPMorgan Chase UK,JPMC UK
+462,AirPlus International,AirPlus International,AirPlus Intl
+463,AirPlus Corporate,AirPlus Corporate,AirPlus Corp
+464,AirPlus AIDA,AirPlus AIDA,AirPlus AIDA
+465,Standard Chartered Botswana,Standard Chartered Botswana,SCB VISA
+500,Requisitions,Requisitions,Requisitions
+510,Cash Expenses,Cash Expenses,Cash
+520,e-Money,e-Money,e-Money
+530,
