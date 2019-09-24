@@ -1,0 +1,247 @@
+BANK_ID,NAME,SHORT_NAME,UPDATE_DATE
+-1,Payables,Payables,2019-09-20 00:00:00
+10,ANZ Bank New Zealand,ANZ NZ,2019-09-20 00:00:00
+11,Bank of New Zealand,BNZ,2019-09-20 00:00:00
+12,Diners Club International,Diners Club,2019-09-20 00:00:00
+20,St.George Bank,St.George,2019-09-20 00:00:00
+25,Wells Fargo Bank,Wells Fargo,2019-09-20 00:00:00
+30,NAB Mastercard,NAB MC,2019-09-20 00:00:00
+40,ANZ NZ,ANZ NZ,2019-09-20 00:00:00
+41,ANZ NZ Purchasing,ANZ NZ PUR,2019-09-20 00:00:00
+42,ANZ NZ Corporate,ANZ NZ Corp,2019-09-20 00:00:00
+90,ASB VISA,ASB VISA,2019-09-20 00:00:00
+99,United Vision Travel,VisionTravel,2019-09-20 00:00:00
+100,United Vision Bank,Vision Bank,2019-09-20 00:00:00
+101,ASB BANK,ASB BANK,2019-09-20 00:00:00
+102,Commonwealth Bank of Australia,CBA,2019-09-20 00:00:00
+103,ANZ,ANZ,2019-09-20 00:00:00
+104,Westpac NZ,Westpac NZ,2019-09-20 00:00:00
+105,Visa International,VISA,2019-09-20 00:00:00
+106,National Australia Bank,NAB,2019-09-20 00:00:00
+107,American Express,AMEX,2019-09-20 00:00:00
+108,Barclaycard Business,Barclaycard,2019-09-20 00:00:00
+109,Barclays Bank PLC,Barclays ,2019-09-20 00:00:00
+110,Westpac Banking Corporation,Westpac,2019-09-20 00:00:00
+111,American Express NZ,AMEX NZ,2019-09-20 00:00:00
+112,American Express AUS,AMEX AUS,2019-09-20 00:00:00
+113,Diners Club New Zealand,Diners NZ,2019-09-20 00:00:00
+114,Citibank Europe,Citibank,2019-09-20 00:00:00
+115,Citibank Singapore,Citibank SG,2019-09-20 00:00:00
+116,JPMorganChase,JPMC,2019-09-20 00:00:00
+117,Citibank Scotland,Citibank SC,2019-09-20 00:00:00
+118,Citibank France,Citibank FR,2019-09-20 00:00:00
+119,Citibank MasterCard,Citibank MC,2019-09-20 00:00:00
+120,ANZ MasterCard,MasterCard,2019-09-20 00:00:00
+121,HSBC Singapore,HSBC SG,2019-09-20 00:00:00
+122,Royal Bank of Scotland,RBS,2019-09-20 00:00:00
+123,Westpac Australia Visa,Westpac Visa,2019-09-20 00:00:00
+124,Citibank Hong Kong,Citibank HK,2019-09-20 00:00:00
+125,SEB Eurocard,SEB Eurocard,2019-09-20 00:00:00
+126,NAB - Corporate,NAB Corp,2019-09-20 00:00:00
+127,BNZ - Purchasing,BNZ Purchase,2019-09-20 00:00:00
+128,Citibank EU,Citibank EU,2019-09-20 00:00:00
+130,ANZ - Purchasing,ANZ Purchase,2019-09-20 00:00:00
+131,ANZ - Corporate,ANZ Corp,2019-09-20 00:00:00
+132,ANZ - Cash,ANZ - Cash,2019-09-20 00:00:00
+133,ANZ - Travel,ANZ - Travel,2019-09-20 00:00:00
+134,ANZ - One Card,ANZ-OneCard,2019-09-20 00:00:00
+135,American Express - Purchasing,Amex P,2019-09-20 00:00:00
+136,American Express US,AMEX US,2019-09-20 00:00:00
+137,American Express US - Purchasing,Amex US P,2019-09-20 00:00:00
+138,AMEX Global T & E,AMEX GL T&E,2019-09-20 00:00:00
+139,AMEX Global PCard,AMEX GL,2019-09-20 00:00:00
+140,United Overseas Bank (Malaysia),UOB (MY),2019-09-20 00:00:00
+141,AMEX Argentina,AMEX AR,2019-09-20 00:00:00
+142,Barclaycard Blue,BC Blue,2019-09-20 00:00:00
+143,Barclaycard Silver,BC Silver,2019-09-20 00:00:00
+144,Barclaycard Visa,BC Visa,2019-09-20 00:00:00
+147,Barclaycard Mastercard,BC MCard,2019-09-20 00:00:00
+148,Westpac Mastercard,Westpac MC,2019-09-20 00:00:00
+150,Citibank Australia,Citibank AU,2019-09-20 00:00:00
+151,Westpac AU Corporate,Westpac Corp,2019-09-20 00:00:00
+152,Westpac AU Purchasing,Westpac PC,2019-09-20 00:00:00
+153,JPMorgan Chase Canada,JPMC Canada,2019-09-20 00:00:00
+154,JPMorgan Chase USA,JPMC USA,2019-09-20 00:00:00
+155,Citibank Japan,Citibank JP,2019-09-20 00:00:00
+156,Citibank BANAMEX Mexico,Citibank MX,2019-09-20 00:00:00
+157,Citibank India,Citibank IN,2019-09-20 00:00:00
+158,Bank of Melbourne,BOM AU,2019-09-20 00:00:00
+159,Citibank South Africa,Citi SA,2019-09-20 00:00:00
+160,SunTrust - Visa,STI - Visa,2019-09-20 00:00:00
+161,SunTrust - MasterCard,STI - MC,2019-09-20 00:00:00
+162,SunTrust EBPP,SunTrust,2019-09-20 00:00:00
+165,Bank of America,BOA,2019-09-20 00:00:00
+166,Bank of America (US),BOA (US),2019-09-20 00:00:00
+167,Bank of America (Canada),BOA (Canada),2019-09-20 00:00:00
+168,Bank of America (Visa),BoA (Visa),2019-09-20 00:00:00
+169,Bank of America (Europe),BoA Europe,2019-09-20 00:00:00
+170,Bidvest Bank,Bidvest Bank,2019-09-20 00:00:00
+171,UBS,UBS,2019-09-20 00:00:00
+172,Bankinter,Bankinter,2019-09-20 00:00:00
+173,Scotia Bank,Scotia Bank,2019-09-20 00:00:00
+174,United Overseas Bank (Thailand),UOB (TH),2019-09-20 00:00:00
+175,United Overseas Bank (Indonesia),UOB (Indo),2019-09-20 00:00:00
+176,AMEX Serbia,AMEX Serbia,2019-09-20 00:00:00
+177,UBS AG,UBS AG,2019-09-20 00:00:00
+178,Citibank Australia CTA,Citi AU CTA,2019-09-20 00:00:00
+179,Citibank New Zealand CTA,Citi NZ CTA,2019-09-20 00:00:00
+180,ANZ,ANZ,2019-09-20 00:00:00
+181,HSBC UK,HSBC UK,2019-09-20 00:00:00
+182,HSBC Australia,HSBC AU,2019-09-20 00:00:00
+183,HSBC,HSBC,2019-09-20 00:00:00
+184,HSBC Canada,HSBC CA,2019-09-20 00:00:00
+185,HSBC Ireland,HSBC Ireland,2019-09-20 00:00:00
+186,HSBC US,HSBC US,2019-09-20 00:00:00
+187,HSBC Sri Lanka,HSBC SL,2019-09-20 00:00:00
+190,Citibank Diners,Citi Diners,2019-09-20 00:00:00
+191,Citibank China,Citi China,2019-09-20 00:00:00
+192,Airplus Germany,Airplus DEU,2019-09-20 00:00:00
+193,HSBC Middle East,HSBC ME,2019-09-20 00:00:00
+194,Citibank Canada,Citi Canada,2019-09-20 00:00:00
+195,Bank of Western Australia,Bankwest,2019-09-20 00:00:00
+196,Lloyds Bank,Lloyds,2019-09-20 00:00:00
+197,Lloyds Bank (Lodge),Lloyds Lodge,2019-09-20 00:00:00
+198,Amex GL France,Amex GL FR,2019-09-20 00:00:00
+199,Amex Hong Kong,Amex HK,2019-09-20 00:00:00
+200,Mitsui Sumitomo Visa,MS Visa,2019-09-20 00:00:00
+201,Diners Club Japan,Diners,2019-09-20 00:00:00
+202,Japan Credit Bureau,JCB,2019-09-20 00:00:00
+203,Diamond Credit Card,DC Card,2019-09-20 00:00:00
+204,Toyota Finance,TFS,2019-09-20 00:00:00
+205,Credit Saison,Cr Saison,2019-09-20 00:00:00
+206,Branch Banking & Trust Corporation,BB&T Corp,2019-09-20 00:00:00
+207,Branch Banking & Trust Lodge,BB&T Lodge,2019-09-20 00:00:00
+208,Citibank Taiwan,Citi TW,2019-09-20 00:00:00
+209,Citibank Shanghai,Citi SH,2019-09-20 00:00:00
+210,Citibank Malaysia,Citi Malay,2019-09-20 00:00:00
+211,Citibank Indonesia,Citi ID,2019-09-20 00:00:00
+212,Citibank Philippines,Citi PH,2019-09-20 00:00:00
+213,NAB - Cash Card,NAB CashCard,2019-09-20 00:00:00
+214,Bank of America (Corporate),BoA (Corp),2019-09-20 00:00:00
+215,Citibank US,Citibank US,2019-09-20 00:00:00
+216,Citibank Asia,Citi Asia,2019-09-20 00:00:00
+217,Citibank,Citibank,2019-09-20 00:00:00
+218,Citibank Venezuela,Citi VEN,2019-09-20 00:00:00
+219,Citibank US,Citi US,2019-09-20 00:00:00
+220,Bank of Montreal,BOM,2019-09-20 00:00:00
+221,Diners AU Dual Card (Diners),DDCD,2019-09-20 00:00:00
+222,Diners AU Dual Card (MasterCard),DDCM,2019-09-20 00:00:00
+225,Bank Card Corporate,BCC,2019-09-20 00:00:00
+230,Bank of Scotland,BoS,2019-09-20 00:00:00
+231,CBA - MC Travel & Entertainment,CWB - MC Cor,2019-09-20 00:00:00
+232,CBA - MC Purchasing,CWB - MC Pur,2019-09-20 00:00:00
+233,Commonwealth Bank - CBA Corporate,CBA - Corp,2019-09-20 00:00:00
+239,Eurocard,Eurocard,2019-09-20 00:00:00
+240,Citibank France,Citi France,2019-09-20 00:00:00
+241,Citibank Germany,Citi Germany,2019-09-20 00:00:00
+242,Citibank Netherlands,Citi Dutch,2019-09-20 00:00:00
+243,ANZ - Procurement,ANZ - Pro,2019-09-20 00:00:00
+244,Citibank Thailand,Citi Thai,2019-09-20 00:00:00
+245,Citibank Japan,Citi JP,2019-09-20 00:00:00
+246,AMEX UK Purchasing,AMEX UK,2019-09-20 00:00:00
+247,Citibank Israel,Citi Israel,2019-09-20 00:00:00
+248,Royal Bank of Scotland,RBS MC,2019-09-20 00:00:00
+250,China Merchants Bank,CMB,2019-09-20 00:00:00
+251,Visa Westpac Bank,Visa Westpac,2019-09-20 00:00:00
+252,Visa Westpac AU,Visa Wpac AU,2019-09-20 00:00:00
+253,Visa Westpac Corporate,Visa Wpac Co,2019-09-20 00:00:00
+254,Visa Westpac Purchasing,Visa Wpac P,2019-09-20 00:00:00
+255,ING MasterCard,ING MC,2019-09-20 00:00:00
+256,China Merchant Bank T&E,China MB T&E,2019-09-20 00:00:00
+257,China Merchant Bank Purchasing,China MB P,2019-09-20 00:00:00
+260,Amex Singapore,Amex SGP,2019-09-20 00:00:00
+261,Amex Singapore Purchasing,AMEX SIN P,2019-09-20 00:00:00
+270,ABSA VISA,ABSA VISA,2019-09-20 00:00:00
+271,Lloyds,Lloyds,2019-09-20 00:00:00
+272,National Australia Bank NTA,NAB NTA,2019-09-20 00:00:00
+273,ANZ New Zealand Travel Card,ANZ NZ Lodge,2019-09-20 00:00:00
+278,Lloyds Visa,Lloyds Visa,2019-09-20 00:00:00
+279,Citibank New Zealand,Citi NZ,2019-09-20 00:00:00
+280,Bank of America - Australia (MC),BoA AU(MC),2019-09-20 00:00:00
+281,Nedbank VISA,Nedbank,2019-09-20 00:00:00
+282,Citibank - Purchasing cards,Citibank Pc,2019-09-20 00:00:00
+283,BOQ Specialist Bank Ltd,BOQS,2019-09-20 00:00:00
+284,Bank of America VCP,BoA VCP,2019-09-20 00:00:00
+285,HSBC Hong Kong,HSBC HK,2019-09-20 00:00:00
+286,National Westminster Bank Plc,Natwest,2019-09-20 00:00:00
+287,Citibank Korea,Citibank Kr,2019-09-20 00:00:00
+288,ICICI,ICICI,2019-09-20 00:00:00
+289,Nedbank,Nedbank,2019-09-20 00:00:00
+290,RBS - Bank Settle,RBS - Settle,2019-09-20 00:00:00
+291,RBS - VPC,RBS - VPC,2019-09-20 00:00:00
+292,Lloyds MasterCard,Lloyds MC,2019-09-20 00:00:00
+295,U.S. Bank,U.S. Bank,2019-09-20 00:00:00
+300,Bank One,Bank One,2019-09-20 00:00:00
+301,TDB Mongolia T&E,TDB MN T&E,2019-09-20 00:00:00
+302,TDB Mongolia Purchasing,TDB MN P,2019-09-20 00:00:00
+310,Bank of Montreal,BMO,2019-09-20 00:00:00
+311,Bank of Montreal,BMO,2019-09-20 00:00:00
+312,Bank of Montreal - MasterCard,BMO,2019-09-20 00:00:00
+313,Bank of Montreal - Diners,Diners Club,2019-09-20 00:00:00
+334,BoA Australia P-Card,BoA AU P,2019-09-20 00:00:00
+335,BoA Diavik Diamonds Purchasing,BoA-DDMI-P,2019-09-20 00:00:00
+336,BoA Diavik Diamonds T&E,BoA DDMI T&E,2019-09-20 00:00:00
+337,BoA USD Global T&E,BoA USD G TE,2019-09-20 00:00:00
+338,BoA USD Global Purchasing,BoA USD G P,2019-09-20 00:00:00
+339,BoA Singapore T&E,BoA SG T&E,2019-09-20 00:00:00
+340,BoA Singapore Purchasing,BOA Sin (P),2019-09-20 00:00:00
+341,BoA New Zealand,BOA NZ,2019-09-20 00:00:00
+342,BoA Australia East T&E,BoA AU EA TE,2019-09-20 00:00:00
+343,BoA Australia East Purchasing,BoA AU EA P,2019-09-20 00:00:00
+344,BoA Australia West T&E,BoA AU WE TE,2019-09-20 00:00:00
+345,BoA Australia West Purchasing,BoA AU WE P,2019-09-20 00:00:00
+346,BoA Canada T&E,BoA CA T&E,2019-09-20 00:00:00
+347,BoA Canada Purchasing,BoA CA P,2019-09-20 00:00:00
+348,BoA USA T&E,BoA USA T&E,2019-09-20 00:00:00
+349,BoA USA Purchasing,BoA USA P,2019-09-20 00:00:00
+350,HRG Bill Back,HRG BB,2019-09-20 00:00:00
+351,China Construction Bank (Asia) VISA,CCBA VISA,2019-09-20 00:00:00
+352,China Construction Bank (Asia) MasterCard,CCBA MC,2019-09-20 00:00:00
+353,China Construction Bank (Asia) UnionPay,CCBA UP,2019-09-20 00:00:00
+354,Westpac Visa CTA,Westpac CTA,2019-09-20 00:00:00
+355,Natwest Bank,Natwest MC,2019-09-20 00:00:00
+356,United Overseas Bank Limited,UOB SG,2019-09-20 00:00:00
+357,Chinatrust Commercial Bank,CTBC Bank,2019-09-20 00:00:00
+358,DBS Bank Ltd,DBS Bank Ltd,2019-09-20 00:00:00
+359,AMEX Philippines,AMEX PH,2019-09-20 00:00:00
+360,AMEX Banco De Oro,AMEX BDO,2019-09-20 00:00:00
+361,AMEX India,AMEX Id,2019-09-20 00:00:00
+362,AMEX France,AMEX FR,2019-09-20 00:00:00
+363,AMEX Iceland,AMEX ICE,2019-09-20 00:00:00
+364,AMEX Thailand,AMEX Th,2019-09-20 00:00:00
+365,Amex Business Traveller,AmexBusTrav,2019-09-20 00:00:00
+370,BoA UK T&E,BoA UK T&E,2019-09-20 00:00:00
+371,BoA France T&E,BoA FR T&E,2019-09-20 00:00:00
+372,BoA France Purchasing,BoA FR P,2019-09-20 00:00:00
+373,Standard Bank South Africa T&E,Std B ZA T&E,2019-09-20 00:00:00
+374,Standard Bank South Africa Purchasing,Std B ZA P,2019-09-20 00:00:00
+375,BoA India T&E,BoA IND T&E,2019-09-20 00:00:00
+376,BoA India Purchasing,BoA IND P,2019-09-20 00:00:00
+377,BoA Hong Kong,BOA HK,2019-09-20 00:00:00
+378,BoA UK Purchasing,BoA-UK-P,2019-09-20 00:00:00
+390,Bendigo and Adelaide Bank Limited,BEN,2019-09-20 00:00:00
+391,DBS Bank Lodge,DBS Lodge,2019-09-20 00:00:00
+400,Shell Australia,Shell,2019-09-20 00:00:00
+403,AMEX BTA Australia,AMEX BTA AU,2019-09-20 00:00:00
+404,AMEX BTA New Zealand,AMEX BTA NZ,2019-09-20 00:00:00
+405,AMEX BTA Lodge,AMEX Lodge,2019-09-20 00:00:00
+410,FCM Travel,FCM Travel,2019-09-20 00:00:00
+411,Air NZ TravelCard,Air NZ,2019-09-20 00:00:00
+412,Airplus,Airplus,2019-09-20 00:00:00
+420,Corporate Cabs,Corp Cabs,2019-09-20 00:00:00
+421,Mitsubishi Bank,Mitsubishi,2019-09-20 00:00:00
+430,TaxiCharge NZ,TaxiCharge,2019-09-20 00:00:00
+431,Alert Taxis,Alert Taxis,2019-09-20 00:00:00
+440,Mobil New Zealand,Mobil NZ,2019-09-20 00:00:00
+441,Bank of the West,Bank West,2019-09-20 00:00:00
+450,National Travel Account,NAB Travel,2019-09-20 00:00:00
+451,NAB - Automated Invoice Payments,NAB - AIP,2019-09-20 00:00:00
+460,Barclaycard Lodge,BC Lodge,2019-09-20 00:00:00
+461,JPMorgan Chase UK,JPMC UK,2019-09-20 00:00:00
+462,AirPlus International,AirPlus Intl,2019-09-20 00:00:00
+463,AirPlus Corporate,AirPlus Corp,2019-09-20 00:00:00
+464,AirPlus AIDA,AirPlus AIDA,2019-09-20 00:00:00
+465,Standard Chartered Botswana,SCB VISA,2019-09-20 00:00:00
+500,Requisitions,Requisitions,2019-09-20 00:00:00
+510,Cash Expenses,Cash,2019-09-20 00:00:00
+520,e-Money,e-Money,2019-09-20 00:00:00

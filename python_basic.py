@@ -90,4 +90,11 @@ for friend in friends:
 
 for num in range(10):
     print(num)
-    
+
+from datetime import datetime
+
+date_str = '2019-09-20'
+
+date_object = datetime.strptime(date_str, '%Y-%m-%d').date()
+print(type(date_object))
+print(date_object)  

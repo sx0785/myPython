@@ -94,7 +94,7 @@ for i in str:
     if str.find(i,str.index(i)+1)>0 :
         print(i)
         break
-'''
+
 def str_finder(str):
     for s in str:
         i = str.index(s)
